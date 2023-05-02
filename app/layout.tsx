@@ -11,11 +11,11 @@ export const metadata: Metadata = {
 	},
 	description: "Software engineer at upstash.com and founder of planetfall.io",
 	openGraph: {
-		title: "chronark.com",
+		title: "visioart.io",
 		description:
-			"Software engineer at upstash.com and founder of planetfall.io",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+			"Video Production Company",
+		url: "https://visioart.io",
+		siteName: "visioart.io",
 		images: [
 			{
 				url: "https://chronark.com/og.png",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 		},
 	},
 	twitter: {
-		title: "Chronark",
+		title: "visioart",
 		card: "summary_large_image",
 	},
 	icons: {
